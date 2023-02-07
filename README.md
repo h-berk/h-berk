@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hasan</h1>
 <h3 align="center">An applied computing student studying the cloud & networks stream in SETU Ireland.</h3>
 
-- 🔭 I’m currently working on **college projects.**
+- 🔭 I’m currently working with **WP Engine**
 
-- 🌱 I’m currently learning **Java, Python, Javascript,React, MySQL, Network Forensics.**
+- 🌱 I’m currently learning **Golang, Kubernetes and Software Engineering.**
 
 - 👨‍💻 You can find my website at [www.hberk.com](www.hberk.com)
 
