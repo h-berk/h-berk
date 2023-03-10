@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **WP Engine**
 
-- 🌱 I’m currently learning **Golang, Kubernetes and Software Engineering.**
+- 🌱 I’m currently learning **Terraform, Golang, Kubernetes and Headless Hosting.**
 
 - 👨‍💻 You can find my website at [www.hberk.com](www.hberk.com)
 
