@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hasan</h1>
-<h3 align="center">An applied computing student studying the cloud & networks stream in SETU Ireland.</h3>
+<h1 align="center">👋 Hey, I'm Hasan</h1>
+<h3 align="center">An applied computing student studying the cloud & networks stream in SETU.</h3>
 
 - 🔭 I’m currently working at **WP Engine**
 
