@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hey, I'm Hasan</h1>
-<h3 align="center">An applied computing student studying the cloud & networks stream in SETU.</h3>
+<h3 align="center">A Computer Science student studying the cloud & networks stream in SETU.</h3>
 
-- 🔭 I’m currently working at **WP Engine** as a Software Engineering Intern.
+- 🔭 I’m currently in my final year in Computer Science.
 
-- 🌱 I’m currently working with **Terraform, Golang, Kubernetes and Headless Site Hosting.**
+- 🌱 I’m currently studying **Cloud Computing 1, Data Mining 1, Distributed Systems, Mobile App Development and Network & System Security.**
 
 - 👨‍💻 You can find my website at [www.hberk.com](www.hberk.com)
 
