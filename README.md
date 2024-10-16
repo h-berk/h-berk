@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying **Cloud Computing 1, Data Mining 1, Distributed Systems, Mobile App Development and Network & System Security.**
 
-- 👨‍💻 You can find my website at [www.hberk.com](www.hberk.com)
+- 👨‍💻 You can find my website at [www.hberk.ie](www.hberk.ie)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
